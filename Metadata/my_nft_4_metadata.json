@@ -1,0 +1,12 @@
+{
+    "name": "My NFT 4",
+    "description": "This is a unique NFT created by combining multiple images.",
+    "image": "my_nft_4.png",
+    "image_filenames_used": [
+        "./background\\background (3).png",
+        "./tail\\tail (10).png",
+        "./ears\\ears (10).png",
+        "./body\\body (6).png",
+        "./eyes\\eyes (5).png"
+    ]
+}
